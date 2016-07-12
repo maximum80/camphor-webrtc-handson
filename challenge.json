@@ -1,0 +1,14 @@
+{
+  "editable": [
+    "index.html",
+    "script.js",
+    "style.css"
+  ],
+  "allowNewFile": true,
+  "readme": {
+    "ja":"README.md"
+  },
+  "excludes": [
+    "challenge.json"
+  ],
+}
